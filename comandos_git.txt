@@ -23,3 +23,12 @@ git config --global user.email "seuemail"
 
 //lista todos os commits
 git log
+
+//vincular com repositorio remoto
+git remoto + endereço (esse comando o proprio github fornece)
+
+//subir para o repositorio remoto
+git push -u origin main
+
+//verficar repositorio remoto
+git pull
